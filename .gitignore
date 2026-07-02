@@ -1,0 +1,23 @@
+# Arduino / embedded project ignores
+*.log
+*.elf
+*.bin
+*.hex
+*.d
+*.o
+*.a
+*.cpp.o
+*.ino.cpp
+*.tmp
+*.cache
+*.DS_Store
+.vscode/
+build/
+
+# PlatformIO
+.pio/
+
+# Temporary files
+*~
+*.swp
+*.swo
